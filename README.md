@@ -1,2 +1,3 @@
-# discoRd
-Learning discord bot stuff with R
+# discord.r
+
+Plans to be the R package for interacting with discord
